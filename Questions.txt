@@ -1,0 +1,10 @@
+1. difference between onload and ready
+2. how to change background color of page in js & in jquery
+3. CSS selectors
+4. How to empty all form elements value using JQuery
+5. What is Clousre
+6. Phonegap
+7. What is responsive design
+8. Difference between HTML and HTML5
+9. HTML 5 and CSS 3 supports for lower versions
+10. How we should write JS if we don't have frameworks
